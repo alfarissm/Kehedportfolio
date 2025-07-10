@@ -47,7 +47,7 @@ const projects = [
     image: "/projects/Mini/Nutri8.png",
     tags: ["Figma", "Canva"],
     liveUrl:
-      "https://www.figma.com/design/UnHyCG80rga74HoP0hEGrb/Interaksi-Manusia-Komputer---Nutri8?node-id=311-7853&p=f&t=7aDEJVsjcTbYFE9K-0",
+      "https://www.figma.com/proto/UnHyCG80rga74HoP0hEGrb/Interaksi-Manusia-Komputer---Nutri8?node-id=311-7853&t=B3cUB27DWQaJYcEL-1",
     dataAiHint: "Prototype",
     type: "Mini Project",
   },
