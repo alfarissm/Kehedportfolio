@@ -66,6 +66,7 @@ const projects = [
 
 const projectLayouts = [
   "md:row-span-2",
+  "md:row-span-2",
   "",
   "",
   "md:col-span-2",
