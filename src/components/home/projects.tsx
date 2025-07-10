@@ -26,7 +26,7 @@ const projects = [
       "A simple paddle-themed mini game built with HTML, CSS, and JavaScript. Great for practicing basic programming logic.",
     image: "/projects/Mini/paddle.png",
     tags: ["HTML", "CSS", "JavaScript"],
-    liveUrl: "https://github.com/alfarissm/Simple-Project.git",
+    liveUrl: "https://alfarissm.github.io/Paddle-game/",
     dataAiHint: "Mini Game",
     type: "Mini Project",
   },
