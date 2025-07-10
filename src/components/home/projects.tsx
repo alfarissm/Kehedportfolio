@@ -27,7 +27,7 @@ const projects = [
     image: "/projects/Big/fishify.webm.gif",
     tags: ["Nextjs", "Tailwind CSS", "Genkit(Gemini)", "Spotify API"],
     liveUrl:
-      "https://www.fishifyy.vercel.app",
+      "https://fishifyy.vercel.app",
     dataAiHint: "Prototype App",
     type: "Big Project",
   },
