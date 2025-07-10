@@ -21,6 +21,17 @@ const projects = [
     type: "Big Project",
   },
   {
+      title: "Fishify",
+    description:
+      "a personalized music recommendation web app powered by AI. Just type in your mood, activity, or favorite artist, and Fishify uses Genkit + Spotify API to return a curated playlist ",
+    image: "/projects/Big/fishify.webm.gif",
+    tags: ["Nextjs", "Tailwind CSS", "Genkit(Gemini)", "Spotify API"],
+    liveUrl:
+      "https://www.fishifyy.vercel.app",
+    dataAiHint: "Prototype App",
+    type: "Big Project",
+  },
+  {
     title: "Paddle Mini Game",
     description:
       "A simple paddle-themed mini game built with HTML, CSS, and JavaScript. Great for practicing basic programming logic.",
