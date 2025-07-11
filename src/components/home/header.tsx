@@ -50,7 +50,7 @@ export function Header({ activeSection, onSectionChange }: HeaderProps) {
   return (
     <TooltipProvider delayDuration={0}>
       <header className="fixed bottom-6 left-1/2 z-50 -translate-x-1/2">
-        <audio ref={audioRef} src="/music/Tate McRae - Just Keep Watching (From F1 The Movie) [Official Audio].mp3" loop />
+        <audio ref={audioRef} src="/music/Timeless (Instrumental).mp3" loop />
         <nav className="flex items-center gap-2 rounded-full border border-primary/20 bg-background/50 p-2 shadow-lg backdrop-blur-lg">
           {navItems.map((item) => (
             <Tooltip key={item.id}>
